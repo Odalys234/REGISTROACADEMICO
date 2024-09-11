@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE2024.9.10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{342E5B14-7D71-4F33-8D40-3C0D413E0562}|KOAE2024.9.10\\KOAE2024.9.10.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\koae2024.9.10\\koae2024.9.10\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342E5B14-7D71-4F33-8D40-3C0D413E0562}|KOAE2024.9.10\\KOAE2024.9.10.csproj|solutionrelative:koae2024.9.10\\controllers\\notacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342E5B14-7D71-4F33-8D40-3C0D413E0562}|KOAE2024.9.10\\KOAE2024.9.10.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\koae2024.9.10\\koae2024.9.10\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342E5B14-7D71-4F33-8D40-3C0D413E0562}|KOAE2024.9.10\\KOAE2024.9.10.csproj|solutionrelative:koae2024.9.10\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{342E5B14-7D71-4F33-8D40-3C0D413E0562}|KOAE2024.9.10\\KOAE2024.9.10.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\koae2024.9.10\\koae2024.9.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{342E5B14-7D71-4F33-8D40-3C0D413E0562}|KOAE2024.9.10\\KOAE2024.9.10.csproj|solutionrelative:koae2024.9.10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NotaController.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE2024.9.10\\KOAE2024.9.10\\Controllers\\NotaController.cs",
+              "RelativeDocumentMoniker": "KOAE2024.9.10\\Controllers\\NotaController.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE2024.9.10\\KOAE2024.9.10\\Controllers\\NotaController.cs",
+              "RelativeToolTip": "KOAE2024.9.10\\Controllers\\NotaController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:29:12.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE2024.9.10\\KOAE2024.9.10\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "KOAE2024.9.10\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE2024.9.10\\KOAE2024.9.10\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "KOAE2024.9.10\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:28:07.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE2024.9.10\\KOAE2024.9.10\\Program.cs",
               "RelativeDocumentMoniker": "KOAE2024.9.10\\Program.cs",
               "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE2024.9.10\\KOAE2024.9.10\\Program.cs",
               "RelativeToolTip": "KOAE2024.9.10\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T04:23:51.151Z",
               "EditorCaption": ""
