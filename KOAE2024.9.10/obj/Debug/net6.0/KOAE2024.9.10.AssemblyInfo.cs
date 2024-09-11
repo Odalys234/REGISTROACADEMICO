@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KOAE2024.9.10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d148449ebe71c63da64fa640dc5575ca93c503")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7d8e2759d7d84da2e7c2a369087ccb259c97fd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KOAE2024.9.10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KOAE2024.9.10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
